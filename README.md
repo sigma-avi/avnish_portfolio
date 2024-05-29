@@ -1,3 +1,11 @@
+
+![Screenshot (32)](https://github.com/sigma-avi/avnish_portfolio/assets/134030689/b599771b-c285-448b-994f-5aaa7c070524)
+![Screenshot (33)](https://github.com/sigma-avi/avnish_portfolio/assets/134030689/26c2a7f0-9bb7-449d-b8d8-1c65164dfe46)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
